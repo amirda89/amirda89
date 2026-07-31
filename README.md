@@ -1,7 +1,7 @@
 # Hello, I'm Amirda, a passionate Software Engineer! 👋
 
-- 🔭 I'm currently working on refining my **Docker** skills.
-- 🌱 I'm currently learning **JavaScript, Python, React, Node**
+- 🔭 I'm currently working on refining my **TypeScript** skills.
+- 🌱 I'm currently learning **Docker**
 - 👨‍💻 All of my projects are available @ [github.com/amirdaGankhuyag](https://github.com/amirdaGankhuyag)
 - 📫 Reach me at [amirda899@gmail.com](mailto:amirda899@gmail.com)
 
