@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Amirda, a passionate Software Engineer! 👋
 
-<!--
-**amirdaGankhuyag/amirdaGankhuyag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on refining my **Docker** skills.
+- 🌱 I'm currently learning **JavaScript, Python, React, Node**
+- 👨‍💻 All of my projects are available @ [github.com/amirdaGankhuyag](https://github.com/amirdaGankhuyag)
+- 📫 Reach me at [amirda899@gmail.com](mailto:amirda899@gmail.com)
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=amirdaGankhuyag&color=blue&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirdaGankhuyag&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=amirdaGankhuyag&theme=dark&hide_border=true)
+
+## Connect with me:
+
+[<img align="left" alt="Amirda | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />](https://www.linkedin.com/in/amirdagankhuyag/)
+
+<br />
+<br />
+
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</p>
