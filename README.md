@@ -9,7 +9,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirdaGankhuyag&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=amirdaGankhuyag&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=amirda89&theme=dark&hide_border=true)
 
 ## Connect with me:
 
