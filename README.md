@@ -13,7 +13,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Amirda | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />](https://www.linkedin.com/in/amirdagankhuyag/)
+[<img align="left" color="white" alt="Amirda | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />](https://www.linkedin.com/in/amirdagankhuyag/)
 
 <br />
 <br />
