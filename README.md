@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on refining my **TypeScript** skills.
 - 🌱 I'm currently learning **Docker**
-- 👨‍💻 All of my projects are available @ [github.com/amirdaGankhuyag](https://github.com/amirdaGankhuyag)
+- 👨‍💻 All of my projects are available @ [github.com/amirdaGankhuyag](https://github.com/amirda89)
 - 📫 Reach me at [amirda899@gmail.com](mailto:amirda899@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=amirdaGankhuyag&color=blue&style=flat)
