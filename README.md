@@ -2,18 +2,19 @@
 
 - 🔭 I'm currently working on refining my **TypeScript** skills.
 - 🌱 I'm currently learning **Docker**
-- 👨‍💻 All of my projects are available @ [github.com/amirdaGankhuyag](https://github.com/amirda89)
+- 👨‍💻 All of my projects are available @ [github.com/amirda89](https://github.com/amirda89)
 - 📫 Reach me at [amirda899@gmail.com](mailto:amirda899@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=amirdaGankhuyag&color=blue&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirdaGankhuyag&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirda89&show_icons=true&theme=dark&hide_border=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amirda89&theme=dark&hide_border=true)
 
 ## Connect with me:
 
-[<img align="left" color="white" alt="Amirda | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />](https://www.linkedin.com/in/amirdagankhuyag/)
+[<img align="left" alt="Amirda | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />](https://www.linkedin.com/in/amirdagankhuyag/)
 
 <br />
 <br />
