@@ -1,7 +1,5 @@
 # Hello, I'm Amirda, a passionate Software Engineer! 👋
 
-- 🔭 I'm currently working on refining my **TypeScript** skills.
-- 🌱 I'm currently learning **Docker**
 - 👨‍💻 All of my projects are available @ [github.com/amirda89](https://github.com/amirda89)
 - 📫 Reach me at [amirda899@gmail.com](mailto:amirda899@gmail.com)
 
